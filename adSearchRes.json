@@ -1,0 +1,138 @@
+{
+  "total": {
+    "value": 17024
+  },
+  "positions": 37864,
+  "query_time_in_millis": 10,
+  "result_time_in_millis": 55,
+  "stats": [],
+  "freetext_concepts": {},
+  "hits": [
+    {
+      "relevance": 1,
+      "id": "25496432",
+      "external_id": "46-556887-7327-1518712-1",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/25496432",
+      "logo_url": "https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/organisation/5568877327/logotyper/logo.png",
+      "headline": "Electrical Designer",
+      "application_deadline": "2022-01-16T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "For an assignment at one of our important customers we are now looking for an Electrical Designer.\n\nScope of the assignment:\n\n Perform design of electrical power distribution and grounding systems.\n Perform design of electrical and I&C systems.\n Implement design changes and upgrades.\n Prepare for installation.\n Prepare for and conduct HW test and verification.\n Assure that documentation is updated to asbuilt and properly connected to PLM & EAM systems.\n\nRequired Qualifications:\n Engineering degree in relevant engineering discipline or equivalent combination of education and experience.\n\nRequired experience:\n Experience from performing design in ePLAN Electric P8.\n Experience from design within industrial and/or large scale plants.\n Experience from design of electrical and I&C cabinets and circuits.\n Design of power supply and grounding to cabinets and field mounted equipment.\n\nPersonal profile:\n Strong problem solving, analytical methods and technical skills.\n Ability to work effectively in and with team(s).\n Uses initiative to identify and resolve problems/issues and has good judgement.\n\nApplication:\n\nTo ensure the quality of the recruitment process with us and enable good communication with our applicants, we ask you to submit your application digitally via our recruitment system on the website. www.odigo.se\n\nWe reject all offers of advertising and recruitment assistance in connection with this advertisement.\n\nQuestions are answered by Emil Borgman, 0734-32 03 17 or emil@odigo.se",
+        "text_formatted": "For an assignment at one of our important customers we are now looking for an Electrical Designer.\n\nScope of the assignment:\n\n Perform design of electrical power distribution and grounding systems.\n Perform design of electrical and I&C systems.\n Implement design changes and upgrades.\n Prepare for installation.\n Prepare for and conduct HW test and verification.\n Assure that documentation is updated to asbuilt and properly connected to PLM & EAM systems.\n\nRequired Qualifications:\n Engineering degree in relevant engineering discipline or equivalent combination of education and experience.\n\nRequired experience:\n Experience from performing design in ePLAN Electric P8.\n Experience from design within industrial and/or large scale plants.\n Experience from design of electrical and I&C cabinets and circuits.\n Design of power supply and grounding to cabinets and field mounted equipment.\n\nPersonal profile:\n Strong problem solving, analytical methods and technical skills.\n Ability to work effectively in and with team(s).\n Uses initiative to identify and resolve problems/issues and has good judgement.\n\nApplication:\n\nTo ensure the quality of the recruitment process with us and enable good communication with our applicants, we ask you to submit your application digitally via our recruitment system on the website. www.odigo.se\n\nWe reject all offers of advertising and recruitment assistance in connection with this advertisement.\n\nQuestions are answered by Emil Borgman, 0734-32 03 17 or emil@odigo.se",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": "Heltid\r\nAnställningstid enligt överenskommelse"
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": "Lön enligt överenskommelse",
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "http://www.odigo.se",
+        "organization_number": "5568877327",
+        "name": "Odigo Consulting AB",
+        "workplace": "Odigo"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": "https://odigo.teamtailor.com/jobs/1518712-electrical-designer?promotion=331673-arbetsformedlingen",
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "EGeL_Yk2_ZWE",
+        "label": "Elkonstruktör",
+        "legacy_ams_taxonomy_id": "4223"
+      },
+      "occupation_group": {
+        "concept_id": "nDaB_vdy_eAy",
+        "label": "Ingenjörer och tekniker inom elektroteknik",
+        "legacy_ams_taxonomy_id": "3113"
+      },
+      "occupation_field": {
+        "concept_id": "6Hq3_tKo_V57",
+        "label": "Yrken med teknisk inriktning",
+        "legacy_ams_taxonomy_id": "18"
+      },
+      "workplace_address": {
+        "municipality": "Lund",
+        "municipality_code": "1281",
+        "municipality_concept_id": "muSY_tsR_vDZ",
+        "region": "Skåne län",
+        "region_code": "12",
+        "region_concept_id": "CaRE_1nn_cSU",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [13.191008, 55.70466]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [
+          {
+            "weight": 10,
+            "concept_id": "EGeL_Yk2_ZWE",
+            "label": "Elkonstruktör",
+            "legacy_ams_taxonomy_id": "4223"
+          }
+        ]
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": []
+      },
+      "application_contacts": [
+        {
+          "name": null,
+          "description": "Emil Borgman",
+          "email": "emil@odigo.se",
+          "telephone": "+46 734 32 03 17",
+          "contact_type": null
+        }
+      ],
+      "publication_date": "2022-01-07T13:58:49",
+      "last_publication_date": "2022-01-16T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_PLATSBANKEN_DXA",
+      "timestamp": 1641560329611
+    }
+  ]
+}
